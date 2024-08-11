@@ -1,0 +1,7 @@
+colorama
+pystyle
+cryptography
+faker
+pyfiglet
+colored
+requests
